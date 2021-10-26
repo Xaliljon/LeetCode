@@ -3,4 +3,4 @@ LeetCode
 Mehr bilan ishlangan!
 
 
-7 solutions added
+8 solutions added
